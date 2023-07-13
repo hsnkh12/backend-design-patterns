@@ -1,6 +1,9 @@
 # Backend Design Pattern
-
-
+Backend communication design patterns sample code with nodejs.
+to start, first install the requiremnts:
+```
+npm i 
+```
 
 ### Push 
 The push design pattern is a software design pattern commonly used in the backend to enable efficient and real-time communication between components or systems. It allows for the automatic delivery of data or events from a sender to one or more receivers without the receivers explicitly requesting the data.
